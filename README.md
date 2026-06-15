@@ -2,8 +2,8 @@
 
 ###
 
-<p align="left">I’m Marvin, a pharmacy resident and biostatistics student.
-  My residency at CHU Grenoble Alpes mainly revolves around clinical pharmacy, pediatrics and clinical investigation.
+<p align="left">I’m Marvin, a pharmacy resident and biostatistics student. <br>
+  My residency at CHU Grenoble Alpes mainly revolves around clinical pharmacy, pediatrics and clinical investigation. <br>
   I currently am an intern at TIMC lab, working on deep learning, model interpretability and visualization of large-scale data in solid organ transplantation.</p>
 
 ###
